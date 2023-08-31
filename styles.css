@@ -128,3 +128,40 @@ header {
     align-self: flex-end;
     font-size: 26px;
 }
+
+.register {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.signup-card {
+    background-color: #3882f6;
+    padding: 25px 100px;
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    border-radius: 10px;
+    margin: 100px;
+    align-items: center;
+}
+
+.signup-card p {
+    color: white;
+}
+
+.signup-card span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#signup {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 5px;
+    padding: 5px 15px;
+    border-color: white;
+    max-height: 50px;
+    font-size: 16px;
+}
