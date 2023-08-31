@@ -104,3 +104,27 @@ header {
     align-items: center;
 
 }
+
+
+.third {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    color: #1f2937;
+    max-width: 1200px;
+}
+
+.person {
+    font-weight: bold;
+    align-self: flex-end;
+    font-size: 26px;
+}
